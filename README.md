@@ -64,6 +64,18 @@ Demo tested on:
 
 ![image alt text](img/image_3.png)
 
+
+After installing Docker, please make sure to enable Kubernetes first opening Docker preferences as bellow,
+![image alt text](img/image_14.png)
+
+
+And click on Kubernetes tab and tick "Enable Kubernetes". Finally apply to start Kubernetes.
+![image alt text](img/image_15.png)
+
+## kubectl
+kubectl is required in order to deploy and manage applications on Kubernetes.
+Install kubectl: [https://kubernetes.io/docs/tasks/tools/install-kubectl/ ](https://kubernetes.io/docs/tasks/tools/install-kubectl/ )
+
 ## Twitter
 
 The demo is using Twitter account to send tweets.
